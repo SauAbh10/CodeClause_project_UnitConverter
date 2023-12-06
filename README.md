@@ -1,2 +1,2 @@
-# CodeClause_project_UnitConverter
+*UnitConverter*
 create a Unit Converter website. Using VS code toolkit. 
